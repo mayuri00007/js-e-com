@@ -1,7 +1,8 @@
 import { showToast } from "./utils.js"
 
 const home = document.getElementById("home")
-const URL = "https://js-e-com-uf0g.onrender.com"
+//const URL = "https://js-e-com-uf0g.onrender.com"
+ const URL = "https://js-e-com-1.onrender.com"
 const count = document.getElementById("count")
 const productLimit = document.getElementById("product-limit")
 const pagi = document.getElementById("pagi")
